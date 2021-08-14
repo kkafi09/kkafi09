@@ -9,6 +9,7 @@ Nice to meet you!
 ### Links
 
 **[Instagram](https://www.instagram.com/kkafi09/)**<br />
+**[Twitter](https://twitter.com/kafanalkafi2)**<br />
 
 <!-- **[Website]()**<br /> -->
 <!-- **[Discord]()** -->
