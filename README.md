@@ -5,28 +5,9 @@
 Hey, call me Kafi! I'm currently studying at [SMK Telkom Malang](https://www.smktelkom-mlg.sch.id/).
 
 Nice to meet you!
-
-### Links
-
-**[Instagram](https://www.instagram.com/kkafi09/)**<br />
-**[Twitter](https://twitter.com/kafanalkafi2)**<br />
-
-<!-- **[Website]()**<br /> -->
-<!-- **[Discord]()** -->
-<!-- **[Facebook]()**<br /> -->
-<!--
-**#** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-Hey, call me Kafi! I'm a front-end developer currently working at [Kata.ai](https://kata.ai/), helping to blur the line between high-performance engineering and good design. I'm also an affiliated [Twitch](https://www.twitch.tv/resir014) streamer and I livestream web development and a variety of video games. -->
+### 🌐 Contact Me:
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kkafi09) 
+[![Linkedin Badge](https://img.shields.io/badge/-kkafi09-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-kafanal-kafi-4285751b8/)](https://www.linkedin.com/in/muhammad-kafanal-kafi-4285751b8/) 
+[![Instagram Badge](https://img.shields.io/badge/-kkafi09-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kkafi09/)](https://instagram.com/kkafi09) 
+[![Gmail Badge](https://img.shields.io/badge/-kafi.dev27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kafi.dev27@gmail.com)](mailto:kafi.dev27@gmail.com)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
